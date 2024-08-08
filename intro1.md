@@ -98,7 +98,8 @@ security concerns, and effective use of resources**.
 
 **Why Cloud?**
 
-![alt text](image4.png)
+![alt text](image4.png){width="4.908333333333333in"
+height="5.225in"}
 
 **Highly Scalable**
 
@@ -118,9 +119,9 @@ server. And **if you need extra bandwidth, then a cloud-based service
 can meet your requirements instantly**, rather than undergoing a complex
 (and expensive) update to your IT infrastructure.
 
-![alt text](image6.jpeg)
-
-**Reduced Infrastructure Cost**
+![alt text](image6.jpeg){width="4.45in"
+height="3.05in"}**\
+Reduced Infrastructure Cost**
 
 Moving to the cloud may **reduce the cost of managing and maintaining
 your IT systems**. Rather than purchasing expensive assets and equipment
@@ -137,7 +138,8 @@ and management costs because:
 
 -   There are fewer time delays.
 
-![alt text](image7.png)
+![alt text](image7.png){width="5.958333333333333in"
+height="3.0083333333333333in"}
 
 **Higher Security**
 
@@ -148,7 +150,8 @@ services of their providers. This **remains a strong incentive to
 enhance security best practices and compete in security** for cloud
 providers.
 
-![alt text](image8.png)
+![alt text](image8.png){width="6.025in"
+height="3.175in"}
 
 **High Availability**
 
@@ -170,7 +173,8 @@ speed up your recovery. Cloud services provide quick data recovery for
 all kinds of emergency scenarios, from natural disasters to power
 outages.
 
-![alt text](image9.png)
+![alt text](image9.png){width="4.875in"
+height="4.875in"}
 
 **Fault Tolerance**
 
@@ -180,7 +184,8 @@ instances or components malfunction. The objective is to guarantee high
 service availability and dependability in the event of network outages,
 software bugs, hardware malfunctions, or other unforeseen challenges.
 
-![alt text](image10.png)
+![alt text](image10.png){width="7.316666666666666in"
+height="3.7in"}
 
 **No Location Constraints**
 
@@ -189,7 +194,8 @@ You can access your data from home, the office, or any other location
 data while you are off-site, you can connect to your virtual office
 quickly and easily.
 
-![alt text](image11.gif)
+![alt text](image11.gif){width="6.616666666666666in"
+height="3.716666666666667in"}
 
 **Cloud Service Model**
 
@@ -198,11 +204,11 @@ provides different levels of control, flexibility, and management,
 so you'll select the proper set of services for your needs. The** three
 service models **are as follows:
 ![Cloud Service Models](image12.png)
-![image](https://github.com/user-attachments/assets/66937f3a-6e50-4fc8-9800-e52a8bff31f5)
+![alt text](image.png)
 
 **Infrastructure As A Service (IaaS)**
 
--   It is the** most flexible** type of service which lets you rent the
+-   It is the ** most flexible** type of service which lets you rent the
     hardware and contains the basic building blocks for cloud and IT.
 
 -   **It gives you complete control over the hardware** that runs the
@@ -216,7 +222,7 @@ service models **are as follows:
 
 **Platform As A Service (PaaS)**
 
--   PaaS is a** service model** that provides a **ready-to-use
+-   PaaS is a ** service model** that provides a **ready-to-use
     development environment** where developers can specialize in writing
     and executing high-quality code to make customized applications.
 
@@ -227,7 +233,7 @@ service models **are as follows:
     resources and add new features** to your services.
 
 -   **Examples of PaaS**: **Elastic Beanstalk or Lambda from
-    AWS**, **WebApps, Functions or Azure SQL DB from Azure**, **Cloud
+    AWS**, **WebApps, Functions on Azure SQL DB from Azure**, **Cloud
     SQL DB from Google Cloud**, or **Oracle Database Cloud Service from
     Oracle Cloud**.\
     ![Platform as a service model](image14.png)
@@ -273,7 +279,8 @@ Cloud Computing Service Model I should learn?**
 
 **Cloud Deployment Model**
 
-![cloud deployment model](image17.png)
+![cloud deployment model](image17.png){width="10.345193569553805in"
+height="3.55257874015748in"}
 
 There are four primary** deployment
 models**: **Public**, **Private**, **Community**, and **Hybrid Cloud**.
@@ -288,7 +295,8 @@ internet on a **pay-per-use** basis. These services are managed by
 third-party providers, which handle
 the **infrastructure**, **maintenance**, and **security**.
 
-![public cloud](image18.png)
+![public cloud](image18.png){width="8.260343394575678in"
+height="4.300838801399825in"}
 
 **Advantages:**
 
@@ -327,12 +335,14 @@ by a third-party provider.
 -   **Enhanced Security**: Resources are not shared with others,
     providing better data privacy.
 
--   ![private cloud](image19.png)
+-   ![private cloud](image19.png){width="9.4388167104112in"
+    height="5.219478346456693in"}
 
 -   **Compliance**: Easier to comply with industry regulations and
     standards.
 
-![alt text](image20.png)
+![alt text](image20.png){width="7.407283464566929in"
+height="6.542579833770779in"}
 
 **Limitations:**
 
@@ -353,7 +363,8 @@ This serves a group of organizations with shared concerns (e.g.,
 security, compliance, jurisdiction). It combines some benefits of both
 private and public clouds.
 
-![](image21.png)
+![](image21.png){width="8.7928937007874in"
+height="5.990418853893264in"}
 
 **Advantages:**
 
@@ -366,7 +377,8 @@ private and public clouds.
 -   **Security and Privacy**: Better than public cloud due to limited
     access to the participating organizations.
 
-![](image22.png)
+![](image22.png){width="7.990698818897638in"
+height="6.33421697287839in"}
 
 **Limitations:**
 
@@ -385,7 +397,8 @@ This integrates public and private clouds, allowing data and
 applications to be shared between them. This model offers flexibility
 and balance between the two environments.
 
-![](image23.png)
+![](image23.png){width="9.574253062117235in"
+height="3.958885608048994in"}
 
 **Advantages:**
 
@@ -398,7 +411,8 @@ and balance between the two environments.
 -   **Scalability**: Easily scale workloads across cloud environments
     based on demand.
 
-![](image24.png)
+![](image24.png){width="7.573974190726159in"
+height="6.5009076990376204in"}
 
 **Limitations:**
 
@@ -421,7 +435,8 @@ as more businesses have adopted **cloud solutions** as a primary part of
 their **business model** with technology
 
 ![Hybrid Cloud Deployment
-Model](image25.png)
+Model](image25.png){width="4.05in"
+height="3.3833333333333333in"}
 
 **How To Choose Between Them?**
 
