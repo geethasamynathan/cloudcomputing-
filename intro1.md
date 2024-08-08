@@ -14,8 +14,7 @@ enterprise applications. Maintaining such an infrastructure involves
 significant costs and challenges:
 
 ![alt text](image1-1.png)
-![alt text](image1.png){width="8.283333333333333in"
-height="2.7083333333333335in"}
+
 
 **Problems With Traditional Architecture**
 
@@ -42,8 +41,7 @@ can be pooled and divided irrespective of physical hardware boundaries.
 For example, a single hardware server can be divided into multiple
 servers.
 
-![alt text](image2.jpeg){width="6.533333333333333in"
-height="3.8in"}
+![alt text](image2.jpeg)
 
 **How Does It Overcome the Problems of Traditional Architecture?**
 
@@ -71,8 +69,7 @@ traffic**.
 
 **Characteristics Of  Cloud Computing**
 
-![alt text](image3.png){width="6.833333333333333in"
-height="2.8916666666666666in"}
+![alt text](image3.png)
 
 **On-Demand Self-Service:** Cloud services **do not require any human
 administrators or intervention**; the users themselves can **provision
@@ -101,8 +98,7 @@ security concerns, and effective use of resources**.
 
 **Why Cloud?**
 
-![alt text](image4.png){width="4.908333333333333in"
-height="5.225in"}
+![alt text](image4.png)
 
 **Highly Scalable**
 
@@ -122,9 +118,9 @@ server. And **if you need extra bandwidth, then a cloud-based service
 can meet your requirements instantly**, rather than undergoing a complex
 (and expensive) update to your IT infrastructure.
 
-![alt text](image6.jpeg){width="4.45in"
-height="3.05in"}**\
-Reduced Infrastructure Cost**
+![alt text](image6.jpeg)
+
+**Reduced Infrastructure Cost**
 
 Moving to the cloud may **reduce the cost of managing and maintaining
 your IT systems**. Rather than purchasing expensive assets and equipment
@@ -141,8 +137,7 @@ and management costs because:
 
 -   There are fewer time delays.
 
-![alt text](image7.png){width="5.958333333333333in"
-height="3.0083333333333333in"}
+![alt text](image7.png)
 
 **Higher Security**
 
@@ -153,8 +148,7 @@ services of their providers. This **remains a strong incentive to
 enhance security best practices and compete in security** for cloud
 providers.
 
-![alt text](image8.png){width="6.025in"
-height="3.175in"}
+![alt text](image8.png)
 
 **High Availability**
 
@@ -176,8 +170,7 @@ speed up your recovery. Cloud services provide quick data recovery for
 all kinds of emergency scenarios, from natural disasters to power
 outages.
 
-![alt text](image9.png){width="4.875in"
-height="4.875in"}
+![alt text](image9.png)
 
 **Fault Tolerance**
 
@@ -187,8 +180,7 @@ instances or components malfunction. The objective is to guarantee high
 service availability and dependability in the event of network outages,
 software bugs, hardware malfunctions, or other unforeseen challenges.
 
-![alt text](image10.png){width="7.316666666666666in"
-height="3.7in"}
+![alt text](image10.png)
 
 **No Location Constraints**
 
@@ -197,17 +189,15 @@ You can access your data from home, the office, or any other location
 data while you are off-site, you can connect to your virtual office
 quickly and easily.
 
-![alt text](image11.gif){width="6.616666666666666in"
-height="3.716666666666667in"}
+![alt text](image11.gif)
 
 **Cloud Service Model**
 
 There are three types of service models. Each type of cloud computing
 provides different levels of control, flexibility, and management,
 so you'll select the proper set of services for your needs. The** three
-service models **are as follows:\
-![Cloud Service Models](image12.png){width="6.925in"
-height="3.716666666666667in"}
+service models **are as follows:
+![Cloud Service Models](image12.png)
 
 **Infrastructure As A Service (IaaS)**
 
@@ -221,8 +211,7 @@ height="3.716666666666667in"}
     control over your IT resources.
 
 -   **Examples** of IaaS: VM or EC2 (from AWS), storage, or
-    networking.![Infrastructure as a service model](image13.png){width="4.491666666666666in"
-    height="3.466666666666667in"}
+    networking.![Infrastructure as a service model](image13.png)
 
 **Platform As A Service (PaaS)**
 
@@ -240,8 +229,7 @@ height="3.716666666666667in"}
     AWS**, **WebApps, Functions or Azure SQL DB from Azure**, **Cloud
     SQL DB from Google Cloud**, or **Oracle Database Cloud Service from
     Oracle Cloud**.\
-    ![Platform as a service model](image14.png){width="3.841666666666667in"
-    height="3.775in"}
+    ![Platform as a service model](image14.png)
 
 **Software As A Service (SaaS)**
 
@@ -260,13 +248,11 @@ height="3.716666666666667in"}
 -   Examples of SaaS: **Microsoft Office 365**, **Oracle ERP/HCM
     Cloud**, **SalesForce**, **Gmail**, or **Dropbox**.\
     ![Software as a service
-    model](image15.png){width="3.95in"
-    height="3.4833333333333334in"}
+    model](image15.png)
 
 **Graphical Comparison of Cloud Computing Service Models**
 
-![Cloud Computing Service Models](image16.png){width="8.508333333333333in"
-height="4.416666666666667in"}
+![Cloud Computing Service Models](image16.png)
 
 **Which Cloud Service Model To Learn?**
 
@@ -286,8 +272,7 @@ Cloud Computing Service Model I should learn?**
 
 **Cloud Deployment Model**
 
-![cloud deployment model](image17.png){width="10.345193569553805in"
-height="3.55257874015748in"}
+![cloud deployment model](image17.png)
 
 There are four primary** deployment
 models**: **Public**, **Private**, **Community**, and **Hybrid Cloud**.
@@ -302,8 +287,7 @@ internet on a **pay-per-use** basis. These services are managed by
 third-party providers, which handle
 the **infrastructure**, **maintenance**, and **security**.
 
-![public cloud](image18.png){width="8.260343394575678in"
-height="4.300838801399825in"}
+![public cloud](image18.png)
 
 **Advantages:**
 
@@ -342,14 +326,12 @@ by a third-party provider.
 -   **Enhanced Security**: Resources are not shared with others,
     providing better data privacy.
 
--   ![private cloud](image19.png){width="9.4388167104112in"
-    height="5.219478346456693in"}
+-   ![private cloud](image19.png)
 
 -   **Compliance**: Easier to comply with industry regulations and
     standards.
 
-![alt text](image20.png){width="7.407283464566929in"
-height="6.542579833770779in"}
+![alt text](image20.png)
 
 **Limitations:**
 
@@ -370,8 +352,7 @@ This serves a group of organizations with shared concerns (e.g.,
 security, compliance, jurisdiction). It combines some benefits of both
 private and public clouds.
 
-![](image21.png){width="8.7928937007874in"
-height="5.990418853893264in"}
+![](image21.png)
 
 **Advantages:**
 
@@ -384,8 +365,7 @@ height="5.990418853893264in"}
 -   **Security and Privacy**: Better than public cloud due to limited
     access to the participating organizations.
 
-![](image22.png){width="7.990698818897638in"
-height="6.33421697287839in"}
+![](image22.png)
 
 **Limitations:**
 
@@ -404,8 +384,7 @@ This integrates public and private clouds, allowing data and
 applications to be shared between them. This model offers flexibility
 and balance between the two environments.
 
-![](image23.png){width="9.574253062117235in"
-height="3.958885608048994in"}
+![](image23.png)
 
 **Advantages:**
 
@@ -418,8 +397,7 @@ height="3.958885608048994in"}
 -   **Scalability**: Easily scale workloads across cloud environments
     based on demand.
 
-![](image24.png){width="7.573974190726159in"
-height="6.5009076990376204in"}
+![](image24.png)
 
 **Limitations:**
 
@@ -442,8 +420,7 @@ as more businesses have adopted **cloud solutions** as a primary part of
 their **business model** with technology
 
 ![Hybrid Cloud Deployment
-Model](image25.png){width="4.05in"
-height="3.3833333333333333in"}
+Model](image25.png)
 
 **How To Choose Between Them?**
 
