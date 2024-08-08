@@ -198,6 +198,7 @@ provides different levels of control, flexibility, and management,
 so you'll select the proper set of services for your needs. The** three
 service models **are as follows:
 ![Cloud Service Models](image12.png)
+![image](https://github.com/user-attachments/assets/66937f3a-6e50-4fc8-9800-e52a8bff31f5)
 
 **Infrastructure As A Service (IaaS)**
 
